@@ -1,1 +1,1 @@
-# STALNet
+# GeeNN
